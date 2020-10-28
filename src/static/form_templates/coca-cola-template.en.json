@@ -1,0 +1,44 @@
+{
+  "id": "-1",
+  "name": "Coca Cola Contract - EN",
+  "inputs": [
+    { "label": "Employee ID", "type": "text" },
+    { "label": "First Name", "type": "text" },
+    { "label": "Last Name", "type": "text" },
+    { "label": "Birth Date", "type": "date" },
+    { "label": "Nationality / Citizenship", "type": "country" },
+    { "label": "Passport Number", "type": "text" },
+    { "label": "Passport Expiry Date", "type": "date" },
+    { "label": "CPR Number", "type": "text" },
+    { "label": "Bank Name", "type": "text" },
+    { "label": "Bank Account Number", "type": "text" },
+    { "label": "IBAN Number", "type": "text" },
+    { "label": "Spouse Name", "type": "text" },
+    { "label": "Spouse Birth Date", "type": "date" },
+    { "label": "Children Name", "type": "text" },
+    { "label": "Children Birth Date", "type": "text" },
+    { "label": "Permanent Home Address (Optional)", "type": "text" },
+    { "label": "Local Home Address (Optional)", "type": "text" },
+    { "label": "Emergency Contact Name", "type": "text" },
+    { "label": "Emergency Contact Relationship", "type": "text" },
+    { "label": "Emergency Contact Address", "type": "text" },
+    { "label": "Emergency Contact Phone (Home)", "type": "text" },
+    { "label": "Emergency Contact Phone (Office)", "type": "text" },
+    { "label": "Who holds your passport?", "type": "select", "options": ["Yourself", "Recruitment agent", "Employer"] },
+    {
+      "label": "How were you recruited?",
+      "type": "select",
+      "options": ["At factory gate", "Through an agent", "Internal referral", "Other"]
+    },
+    { "label": "If \"Other\", please specify", "type": "text" },
+    { "label": "Did you have to pay any fees in the recruitment process?", "type": "select", "options": ["Yes", "No"] },
+    { "label": "If so, how much did you pay?", "type": "text" },
+    {
+      "label": "Did you understand the contract terms at the time of recruitment?",
+      "type": "select",
+      "options": ["Yes", "No"]
+    },
+    { "label": "Gender", "type": "select", "options": ["Male", "Female"] },
+    { "label": "Do you live in staff accommodation?", "type": "select", "options": ["Yes", "No"] }
+  ]
+}

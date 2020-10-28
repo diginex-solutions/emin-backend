@@ -1,0 +1,16 @@
+{
+  "mongodb-dev": {
+    "driver": "mongodb",
+    "user": "root",
+    "password": "",
+    "host": "localhost",
+    "database": "diginex-trust",
+    "port": 27018,
+    "authSource": "admin"
+  },
+  "mongodb-local": {
+    "driver": "mongodb",
+    "host": "localhost",
+    "database": "diginex-trust"
+  }
+}

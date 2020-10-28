@@ -1,0 +1,12 @@
+{
+    "Hello World": "Hello World@@@@",
+    "Hello": "สวัสดี",
+    "has shared": "ได้ร่วมกัน",
+    "with you.": "กับคุณ.",
+    "has sent you": "ได้ส่ง",
+    "to review and verify.": "เพื่อตรวจสอบและตรวจสอบ",
+    "{{name}} has shared '{{file}}' with you.": "{{name}} ได้ร่วมกัน '{{file}}' กับคุณ.",
+    "Please click the button below to access and download the file.": "โปรดคลิกที่ปุ่มด้านล่างนี้เพื่อการเข้าถึงและการดาวน์โหลดไฟล์",
+    "{{name}} has sent you '{{file}}' for review and verify.": "{{name}} ได้ส่ง '{{file}}' เพื่อตรวจสอบและตรวจสอบ"
+}
+  
