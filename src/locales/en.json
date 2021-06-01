@@ -1,0 +1,11 @@
+{
+  "has shared": "has shared",
+  "with you.": "with you",
+  "Please click the button below to access and download the file.": "Please click the button below to access and download the file.",
+  "has sent you": "has sent you",
+  "to review and verify.": "to review and verify.",
+  "Hello": "Hello",
+  "{{name}} has shared '{{file}}' with you.": "{{name}} has shared '{{file}}' with you.",
+  "{{name}} has sent you {{file}} for review and verify.": "{{name}} has sent you {{file}} for review and verify.",
+  "{{name}} has sent you '{{file}}' for review and verify.": "{{name}} has sent you '{{file}}' for review and verify."
+}
